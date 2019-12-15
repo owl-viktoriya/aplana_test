@@ -1,3 +1,5 @@
 print ("Hello world")
 print ("Hello Andrei")
 print ("Хаюшки хаюшки")
+print ("Дарова бандиты")
+print ("Угнала тебя, угнала")
